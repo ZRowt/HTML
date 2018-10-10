@@ -1,2 +1,2 @@
-# HTML1
+# HTML
 All HTML Code
